@@ -3,7 +3,7 @@
 
 - 👨‍💻 Tous de mes projets sont disponibles sur [https://portfoliokyllian.fr/porfolio/fini/](https://portfoliokyllian.fr/porfolio/fini/)
 
-- 📫 Comment me joindre **kyllian.lucas@free.fr* *
+- 📫 Comment me joindre **kyllian.lucaspro1@gmail.com* *
 
 <h3 align="left">Contactez-moi :</h3>
 <p align="left">
