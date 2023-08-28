@@ -1,8 +1,6 @@
 <h1 align="center">Salut 👋, je suis kyllian Lucas</h1>
 <p align="left"> <a href="https://twitter.com/lerkyl" target="blank"><img src="https://img.shields.io/twitter/follow/lerkyl?logo=twitter&style=for-the-badge" alt="lerkyl" /></a> </p>
 
-- 👨‍💻 Tous de mes projets sont disponibles sur [https://portfoliokyllian.fr/porfolio/fini/index.php](https://portfoliokyllian.fr/porfolio/fini/index.php)
-
 - 📫 Comment me joindre **kyllian.lucaspro1@gmail.com* *
 
 <h3 align="left">Contactez-moi :</h3>
